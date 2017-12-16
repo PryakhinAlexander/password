@@ -1,0 +1,5 @@
+1. Метод toWrite().Ввод с консоли и запись в файл "passwordGenerator"
+2. Метод toRead().Считать содержимое файла
+3. deleteContentFile()
+4. usingBufferedReader(String filePath).File to String.
+5. Сравнить значение с "внутренним файлом"
